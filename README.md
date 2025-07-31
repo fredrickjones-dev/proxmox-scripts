@@ -18,13 +18,13 @@ CubeCoders AMP is a web-based application that allows you to manage multiple gam
 
 ### One-liner Installation
 ```bash
-curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/amp-installer/main/install-amp.sh | bash
+curl -sSL https://raw.githubusercontent.com/fredrickjones-dev/proxmox-scripts/main/install-amp.sh | bash
 ```
 
 ### Manual Installation
 ```bash
 # Download the script
-wget https://raw.githubusercontent.com/YOUR_USERNAME/amp-installer/main/install-amp.sh
+wget https://raw.githubusercontent.com/fredrickjones-dev/proxmox-scripts/main/install-amp.sh
 
 # Make it executable
 chmod +x install-amp.sh
@@ -203,7 +203,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **AMP Documentation:** https://docs.cubecoders.com/
 - **CubeCoders Support:** https://cubecoders.com/support
-- **GitHub Issues:** [Create an issue](https://github.com/YOUR_USERNAME/amp-installer/issues)
+- **GitHub Issues:** [Create an issue](https://github.com/fredrickjones-dev/proxmox-scripts/issues)
 
 ---
 
